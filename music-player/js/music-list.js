@@ -5,7 +5,7 @@
 //     artist: "Here is the artist name",
 //     img: "image name here - remember img must be in .jpg formate and it's inside the images folder of this project folder",
 //     src: "music name here - remember img must be in .mp3 formate and it's inside the songs folder of this project folder"
-//   }
+//   },
 
 let allMusic = [
   {
