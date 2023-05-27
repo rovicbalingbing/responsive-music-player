@@ -562,7 +562,6 @@ img {
 
 .cards:hover .songs-btn {
   background-color: #eca90b;
-  letter-spacing: .2rem;
 }
 
 .pics {
@@ -586,6 +585,8 @@ img {
 }
 
 .songs-text {
+  font-size: 1rem;
+  text-align: center;
   margin: 0 1.5rem;
 }
 
@@ -602,7 +603,7 @@ img {
   margin: 20px 0px;
   width: 224px;
   height: 74px;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   cursor: pointer;
 }
 
