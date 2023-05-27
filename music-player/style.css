@@ -24,8 +24,11 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: var(--bg);
   color: #f0f0f0;
+  background-image: url(images/bg.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 }
 .wrapper{
   width: 380px;
